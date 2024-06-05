@@ -48,8 +48,8 @@ php -S localhost:8000
 - **Эффекты интерфейса**: Кнопки интерфейса имеют анимационные эффекты при наведении и нажатии.
 
 ## Контакты
-Email: v.a.batmanov@gmail.com
-Telegram: [@vbatmanov](https://t.me/vbatmanov)
+- **Email:** v.a.batmanov@gmail.com
+- **Telegram:** [@vbatmanov](https://t.me/vbatmanov)
 
 
 
