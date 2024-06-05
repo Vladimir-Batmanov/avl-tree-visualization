@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Визуализация дерева AVL</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Визуализация дерева AVL</h1>
+        <div class="actions">
+            <input type="number" id="value" placeholder="Введите значение">
+            <button onclick="insert()">Вставить</button>
+            <button onclick="search()">Поиск</button>
+            <button onclick="clearTree()">Очистить</button>
+        </div>
+        <div class="result">
+            <h2>Результат</h2>
+            <p id="searchResult"></p>
+        </div>
+        <div class="tree">
+            <h2>Древовидная структура</h2>
+            <pre id="treeStructure"></pre>
+        </div>
+    </div>
+</body>
+</html>
